@@ -1,0 +1,90 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman1222222222222222222333333333",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "shaktiman",
+      "alterEgo": "gangadhar",
+      "id": 4
+    },
+    {
+      "name": "qqq",
+      "alterEgo": "qqq",
+      "id": 5
+    },
+    {
+      "name": "ww",
+      "alterEgo": "ww",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Navneet"
+    },
+    {
+      "id": 2,
+      "name": "Sahil"
+    },
+    {
+      "id": 2,
+      "name": "Deepanshu"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@exmple.com",
+      "channelId": "NavneetTech"
+    }
+  ],
+  "channels": [
+    {
+      "id": "NavneetTech",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "black"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "orange"
+    },
+    {
+      "id": 5,
+      "label": "green"
+    },
+    {
+      "id": 6,
+      "label": "gray"
+    }
+  ]
+}
